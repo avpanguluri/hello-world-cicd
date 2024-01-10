@@ -1,38 +1,3 @@
-
- 
-  
-
-
-
-
-
-
-  
-
-
-
-
-    
-
-    
-
-    
-
-
-
-    
-    
-    
-   
-  
-
- 
-
-
-
-
-
-
 <form action="action_page.php">
   <div class="container">
     <h1> New_User Register for DevOps Learning</h1>
